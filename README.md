@@ -43,3 +43,17 @@ All skills are authored specifically for high-reliability, production-grade auto
 - No speculative assumptions or hallucinations.
 - No destructive actions, unapproved cloud resource provisioning, or silent production changes.
 - Least-privilege operational guidelines and rigorous verification before task completion.
+
+---
+
+# 🚀 SEO Growth Team Skills
+
+World-Class Organic Search and Inbound Growth Skills synthesized from leading skills on [skills.sh](https://www.skills.sh/).
+
+| Role | Skill Identifier | Specialized Focus | Top Sources on [skills.sh](https://www.skills.sh/) |
+| :--- | :--- | :--- | :--- |
+| **SEO Strategist & Lead** | `seo-strategy` | Organic growth roadmaps, ICE priority scoring, search intent mapping, conversion funnels, and cross-team orchestration. | `coreyhaines31/marketingskills` (launch-strategy, content-strategy), `mattpocock/skills/to-spec` |
+| **Technical SEO Auditor** | `technical-seo-audit` | Crawl budget optimization, JS rendering parity (SSR/SSG), Schema.org JSON-LD structured data, canonical equity, and Core Web Vitals. | `coreyhaines31/marketingskills` (seo-audit, schema-markup), Google Search Central |
+| **Keyword & Programmatic SEO Architect** | `programmatic-keyword-seo` | High-intent long-tail keyword discovery, semantic topic clustering, cannibalization prevention, and programmatic SEO dataset playbooks. | `coreyhaines31/marketingskills/programmatic-seo`, `gooseworks-ai/goose-skills/programmatic-seo-planner` |
+| **SEO Content & Copy Lead** | `seo-content-copywriting` | High E-E-A-T editorial standards, Generative Engine Optimization (GEO/AI Overviews), search intent fulfillment, and conversion copywriting. | `bankai-skills/superpowers/seo-content-brief`, `coreyhaines31/marketingskills/copywriting`, `whyujjwal/claude-marketing/ai-seo` |
+| **Authority & Digital PR Specialist** | `authority-digital-pr` | White-hat link acquisition, linkable data asset campaigns, high-impact digital PR outreach, entity citations, and backlink audit hygiene. | `dhruvjainin/absolute/link-building`, `rampstackco/claude-skills/seo-offpage`, `gingiris-skills/gr-backlinks` |
