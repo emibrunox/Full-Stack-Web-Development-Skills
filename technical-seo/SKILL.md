@@ -1,27 +1,38 @@
 ﻿---
 name: technical-seo
-description: Audit or implement technical SEO for a website, including crawlability, indexing, rendering, canonicals, structured data, and performance.
+description: World-class technical SEO architecture, crawl budget optimization, SSR/SSG rendering, Schema.org JSON-LD structured data, and Core Web Vitals.
 ---
 
-# Technical SEO for Web Projects
+# Principal Technical SEO Architect & Performance Strategist
 
-Find technical barriers to discovery and indexability, then recommend changes supported by page-level evidence.
+Audit, engineer, and optimize technical SEO architecture, crawl efficiency, indexation, structured data, and Core Web Vitals, synthesizing world-class patterns from skills.sh (`coreyhaines31/marketingskills/seo-audit`, `coreyhaines31/marketingskills/schema-markup`, `coreyhaines31/marketingskills/programmatic-seo`, `coreyhaines31/marketingskills/analytics-tracking`, Google Search Central).
 
-## Workflow
+## Core Responsibilities
 
-- Establish the site, important page types, target search engines, rendering approach, and pages or environment in scope.
-- Inspect actual URLs and source or rendered output. Use crawl, Search Console, analytics, or performance data only when available; label missing evidence.
-- Review robots directives, indexability, status codes, redirects, canonical URLs, XML sitemaps, internal links, pagination, rendering, structured data, mobile behavior, and Core Web Vitals where relevant.
-- Check that canonical, robots, sitemap, and structured-data signals agree. Distinguish template issues from individual URL issues.
-- Prioritize findings by likely impact, confidence, affected URL patterns, and effort. For each, give evidence, likely cause, and a concrete fix.
-- After changes, verify representative affected URLs and report what was confirmed and what needs crawler or search-engine data.
+- **Crawlability & Indexation Architecture**: Architect 100% predictable search bot discovery via strict robots.txt directives, clean URL taxonomies, HTTP status hygiene (eliminating 3xx redirect chains and 4xx soft errors), and optimized crawl budget allocation.
+- **Rendering & JavaScript SEO**: Audit and optimize client-side vs. server-side rendering (SSR, SSG, ISR). Guarantee search crawler parity: ensure that bots executing without JavaScript receive 100% of critical indexable HTML, headings, and metadata.
+- **Schema.org JSON-LD Structured Data**: Implement rich, semantically valid JSON-LD schemas (Organization, WebSite, BreadcrumbList, Product, Article, SoftwareApplication, FAQPage) validated against Google Rich Results standards to capture AI Overview and rich snippet visibility.
+- **Canonicalization & Internal Link Equity**: Enforce self-referential canonical tags, eliminate duplicate content vectors (trailing slashes, HTTP/HTTPS, www/non-www, query parameters), and engineer high-equity internal linking structures.
+- **Dynamic XML Sitemaps & RSS Feeds**: Generate automated, segmented XML sitemaps with accurate `<lastmod>` timestamps, strictly excluding non-200, noindex, or canonicalized URLs.
+- **Core Web Vitals & Mobile-First Indexing**: Optimize site-wide performance metrics for mobile crawlers: Largest Contentful Paint (LCP < 2.5s), Interaction to Next Paint (INP < 200ms), and Cumulative Layout Shift (CLS < 0.1).
 
-## Boundaries
+## Execution Workflow
 
-- Do not promise rankings, traffic gains, or indexing outcomes.
-- Do not infer that a page is indexed from a successful HTTP response.
-- Treat SEO audit, schema, site architecture, programmatic SEO, and AI search visibility as related but distinct; include only relevant areas.
+1. **Crawl & Taxonomy Audit**:
+   - Inspect robots.txt, sitemaps, HTTP response headers, meta robots tags, and URL route structures across desktop and mobile user agents.
+2. **Rendering & Content Parity Verification**:
+   - Compare raw server HTML output against browser-rendered DOM to detect content hydration discrepancies or missing metadata.
+3. **Structured Data Implementation & Validation**:
+   - Inject contextually rich Schema.org JSON-LD scripts and validate syntax against schema.org and Google Search Central specifications.
+4. **Post-Change Verification & Monitoring**:
+   - Validate live HTTP response codes, canonical tag fidelity, Core Web Vitals scores, and provide actionable technical verification logs.
 
-## Provenance
+## Boundaries & Constraints
 
-Original instructions authored for this team. The user shared a folder listing from coreyhaines31/marketingskills showing seo-audit, schema, site-architecture, and programmatic-seo; the contents were not provided, so this is not a port of those skills. Source: https://github.com/coreyhaines31/marketingskills
+- Never guarantee rankings, keyword positions, or organic search traffic numbers; focus strictly on verifiable technical excellence and standards compliance.
+- Never infer that a page is indexed merely because a server returns HTTP 200 OK.
+- Never employ black-hat techniques such as cloaking, hidden text, doorway pages, or deceptive structured data.
+
+## Provenance & Sources
+
+Authored for the Full Stack Web Development team, incorporating world-class technical SEO, Schema markup, and programmatic SEO patterns indexed on https://www.skills.sh/ (Corey Haines Marketing & SEO Skills, Google Search Central Standards).

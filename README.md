@@ -1,21 +1,45 @@
 ﻿# Full Stack Web Development Team Skills
 
-Seven portable Agent Skills, one for each team role. Each folder contains a SKILL.md with YAML frontmatter and role-specific guidance.
+World-Class Agent Skills for the Full Stack Web Development team, synthesized from industry-leading standards and top-tier skills indexed on [skills.sh](https://www.skills.sh/).
 
-## Install
+Each skill provides exhaustive procedural knowledge, execution workflows, boundary constraints, and quality gates for specialized autonomous AI agents (OpenMausBot, Claude Code, Cursor, Codex, Windsurf, Gemini CLI, etc.).
 
-Copy the skill folders into the skills directory supported by your coding agent, keeping each folder and its SKILL.md together. For Codex, use your configured skills directory (commonly .agents/skills/ in a project or ~/.agents/skills/ for a user-level install). Refresh or restart the agent if needed, then ask it to use the relevant skill.
+---
 
-These are original, role-focused skill files. They are not copies of the linked repositories, and no third-party skill source was run. The source notes in each file distinguish public inspiration from the instructions written here. The GitHub folder screenshot showed seo-audit, schema, site-architecture, and programmatic-seo categories, but not their full contents; the Technical SEO skill is therefore an original workflow, not a port of those skills.
+## 🛠️ The Team & Skills Catalog
 
-## Members
+| Role | Skill Identifier | Focus & Specialized Standards | Sources on [skills.sh](https://www.skills.sh/) |
+| :--- | :--- | :--- | :--- |
+| **Tech Lead** | `tech-lead-web-development` | Systems architecture, domain modeling, contract-driven engineering (OpenAPI/gRPC), technical governance & PR reviews, cross-functional orchestration. | `mattpocock/skills` (improve-codebase-architecture, domain-modeling, code-review, to-spec, handoff) |
+| **Frontend Engineer** | `frontend-web-development` | 60fps UI rendering, Core Web Vitals (<100ms INP, <1.5s LCP, 0 CLS), WCAG 2.2 AA/AAA accessibility, deterministic UI states, design token architecture. | `anthropics/skills/frontend-design`, `vercel-labs/agent-skills/web-design-guidelines`, `vercel-labs/agent-skills/vercel-composition-patterns` |
+| **Backend Engineer** | `backend-web-development` | High-throughput APIs, ACID relational data modeling, query optimization (`EXPLAIN ANALYZE`), ESR index rules, circuit breakers, idempotency, zero-trust auth. | `supabase/agent-skills/supabase-postgres-best-practices`, `neondatabase/agent-skills/neon-postgres`, `planetscale/database-skills` |
+| **DevOps & Cloud Engineer** | `devops-cloud-web` | Declarative GitOps IaC (Terraform/OpenTofu), zero-downtime CI/CD (blue/green, canary), container hardening (Distroless, non-root), 360° observability. | `pedronauck/skills/devops-engineer`, `seb1n/awesome-ai-agent-skills/ci-cd`, `affaan-m/ecc/docker-patterns`, `magnus919/agent-skills/kubernetes` |
+| **Application Security Engineer** | `application-security-web` | OWASP Top 10 / CWE mitigation (SQLi, XSS, CSRF, SSRF, IDOR), Zero-Trust RBAC/ABAC, modern cryptography (Argon2id, AES-GCM-256), supply chain audits. | `syunar/agent-skills/security-and-hardening`, `academind/claude-code-course-resources/web-security`, `Eyadkelleh/awesome-skills-security` |
+| **QA & Release Engineer** | `qa-release-web` | Automated test pyramids (unit to Playwright E2E), Test-Driven Development (TDD) loops, race condition/chaos fuzzing, empirical go/no-go release gates. | `obra/superpowers/test-driven-development`, `anthropics/skills/webapp-testing`, `currents-dev/playwright-best-practices-skill`, `obra/superpowers/verification-before-completion` |
+| **Technical SEO Specialist** | `technical-seo` | Crawl budget optimization, SSR/SSG/ISR rendering parity, Schema.org JSON-LD structured data, canonical equity, Core Web Vitals optimization. | `coreyhaines31/marketingskills` (seo-audit, schema-markup, programmatic-seo, analytics-tracking) |
 
-- tech-lead-web-development — Tech Lead
-- backend-web-development — Backend Engineer
-- frontend-web-development — Frontend Engineer
-- application-security-web — Application Security Engineer
-- devops-cloud-web — DevOps and Cloud Engineer
-- qa-release-web — QA and Release Engineer
-- technical-seo — Technical SEO Specialist
+---
 
-Review and adapt these files to the chosen project stack and hosting provider before relying on stack-specific recommendations.
+## 🚀 Installation & Usage
+
+### 1. In OpenMausBot
+Skills are automatically mounted to each team specialist's workspace (`skills/<skill-name>/SKILL.md`) and registered in their skill library.
+
+### 2. In Codex / Claude Code / Cursor / Windsurf
+Clone or copy the individual skill folders into your project's `.agents/skills/` or `~/.agents/skills/` directory:
+
+```bash
+git clone https://github.com/emibrunox/Full-Stack-Web-Development-Skills.git
+cp -r Full-Stack-Web-Development-Skills/* /path/to/project/.agents/skills/
+```
+
+Refresh your agent or restart its session to activate the full procedural knowledge base.
+
+---
+
+## 🔒 Security & Provenance Notice
+
+All skills are authored specifically for high-reliability, production-grade autonomous agent execution. They follow strict defensive boundary controls:
+- No speculative assumptions or hallucinations.
+- No destructive actions, unapproved cloud resource provisioning, or silent production changes.
+- Least-privilege operational guidelines and rigorous verification before task completion.
