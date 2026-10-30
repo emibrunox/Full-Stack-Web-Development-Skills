@@ -1,4 +1,4 @@
-﻿# Full Stack Web Development & Growth Team Skills
+# Full Stack Web Development & Growth Team Skills
 
 World-Class Agent Skills for specialized autonomous engineering and growth teams, synthesized from industry-leading standards and top-tier skills indexed on [skills.sh](https://www.skills.sh/).
 
@@ -43,6 +43,16 @@ Specialized team designed to deeply understand project fundamentals, drive organ
 | **X / Twitter Content Specialist** | `x-twitter-content-growth` | Viral X hooks, punchy standalone insights, educational threads, conversation drivers, and image-paired value drops. | `twitter-thread-creation`, `twitter-algorithm-optimizer`, `felo-x-search` |
 | **Facebook & Community Specialist** | `facebook-community-growth` | Relatable community storytelling, discussion-provoking questions, story posts, and high-share image cards for Facebook pages and groups. | `coreyhaines31/marketingskills/social-content`, `marketing-psychology` |
 | **Instagram & Pinterest Specialist** | `instagram-pinterest-growth` | Aesthetic 4:5 / 1:1 multi-slide carousels and captions on Instagram; high-intent 2:3 vertical Pins, visual search SEO, and evergreen traffic on Pinterest. | `dragoon0x/everything-design-taste/social-media-content`, `coreyhaines31/marketingskills/seo-audit` |
+
+---
+
+## 🎯 4. QuizBombs Project Leadership & Editorial Architecture
+
+Dedicated principal architect and editorial director with a holistic, 360-degree vision across `QuizBombs.com`.
+
+| Role | Skill Identifier | Specialized Focus | Top Sources & Standards |
+| :--- | :--- | :--- | :--- |
+| **QuizBombs Architect & Editorial Lead** | `quizbombs-architect` | Full-spectrum QuizBombs project leadership: Unified Quiz Engine (v2) technical schemas (all 7 scoring/result pairs, pagination, difficulty filters, explanations), 800-1200w E-E-A-T editorial standards, zero em dashes, zero generic conclusion headings, exact `[QUIZ_SHORTCODE_HERE]` placement, AEO/GEO entity modeling, sitemap internal linking, and an exhaustive 35-point QA audit standard. | QuizBombs Master Editorial & QA Standard, Unified Quiz Engine v2 Guide |
 
 ---
 
