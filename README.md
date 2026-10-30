@@ -1,12 +1,12 @@
-﻿# Full Stack Web Development Team Skills
+﻿# Full Stack Web Development & Growth Team Skills
 
-World-Class Agent Skills for the Full Stack Web Development team, synthesized from industry-leading standards and top-tier skills indexed on [skills.sh](https://www.skills.sh/).
+World-Class Agent Skills for specialized autonomous engineering and growth teams, synthesized from industry-leading standards and top-tier skills indexed on [skills.sh](https://www.skills.sh/).
 
 Each skill provides exhaustive procedural knowledge, execution workflows, boundary constraints, and quality gates for specialized autonomous AI agents (OpenMausBot, Claude Code, Cursor, Codex, Windsurf, Gemini CLI, etc.).
 
 ---
 
-## 🛠️ The Team & Skills Catalog
+## 🛠️ 1. Full Stack Web Development Team
 
 | Role | Skill Identifier | Focus & Specialized Standards | Sources on [skills.sh](https://www.skills.sh/) |
 | :--- | :--- | :--- | :--- |
@@ -17,6 +17,32 @@ Each skill provides exhaustive procedural knowledge, execution workflows, bounda
 | **Application Security Engineer** | `application-security-web` | OWASP Top 10 / CWE mitigation (SQLi, XSS, CSRF, SSRF, IDOR), Zero-Trust RBAC/ABAC, modern cryptography (Argon2id, AES-GCM-256), supply chain audits. | `syunar/agent-skills/security-and-hardening`, `academind/claude-code-course-resources/web-security`, `Eyadkelleh/awesome-skills-security` |
 | **QA & Release Engineer** | `qa-release-web` | Automated test pyramids (unit to Playwright E2E), Test-Driven Development (TDD) loops, race condition/chaos fuzzing, empirical go/no-go release gates. | `obra/superpowers/test-driven-development`, `anthropics/skills/webapp-testing`, `currents-dev/playwright-best-practices-skill`, `obra/superpowers/verification-before-completion` |
 | **Technical SEO Specialist** | `technical-seo` | Crawl budget optimization, SSR/SSG/ISR rendering parity, Schema.org JSON-LD structured data, canonical equity, Core Web Vitals optimization. | `coreyhaines31/marketingskills` (seo-audit, schema-markup, programmatic-seo, analytics-tracking) |
+
+---
+
+## 🔍 2. SEO Growth Team
+
+| Role | Skill Identifier | Specialized Focus | Top Sources on [skills.sh](https://www.skills.sh/) |
+| :--- | :--- | :--- | :--- |
+| **SEO Strategist & Lead** | `seo-strategy` | Organic growth roadmaps, ICE priority scoring, search intent mapping, conversion funnels, and cross-team orchestration. | `coreyhaines31/marketingskills` (launch-strategy, content-strategy), `mattpocock/skills/to-spec` |
+| **Technical SEO Auditor** | `technical-seo-audit` | Crawl budget optimization, JS rendering parity (SSR/SSG), Schema.org JSON-LD structured data, canonical equity, and Core Web Vitals. | `coreyhaines31/marketingskills` (seo-audit, schema-markup), Google Search Central |
+| **Keyword & Programmatic SEO Architect** | `programmatic-keyword-seo` | High-intent long-tail keyword discovery, semantic topic clustering, cannibalization prevention, and programmatic SEO dataset playbooks. | `coreyhaines31/marketingskills/programmatic-seo`, `gooseworks-ai/goose-skills/programmatic-seo-planner` |
+| **SEO Content & Copy Lead** | `seo-content-copywriting` | High E-E-A-T editorial standards, Generative Engine Optimization (GEO/AI Overviews), search intent fulfillment, and conversion copywriting. | `bankai-skills/superpowers/seo-content-brief`, `coreyhaines31/marketingskills/copywriting`, `whyujjwal/claude-marketing/ai-seo` |
+| **Authority & Digital PR Specialist** | `authority-digital-pr` | White-hat link acquisition, linkable data asset campaigns, high-impact digital PR outreach, entity citations, and backlink audit hygiene. | `dhruvjainin/absolute/link-building`, `rampstackco/claude-skills/seo-offpage`, `gingiris-skills/gr-backlinks` |
+
+---
+
+## 📱 3. Social Media & Organic Growth Team (Facebook, Instagram, X, Pinterest)
+
+Specialized team designed to deeply understand project fundamentals, drive organic social engagement, and produce tailored post copy paired with high-impact, aspect-ratio-optimized imagery.
+
+| Role | Skill Identifier | Specialized Focus & Platform Targets | Top Sources on [skills.sh](https://www.skills.sh/) |
+| :--- | :--- | :--- | :--- |
+| **Social Media Strategist & Lead** *(Chief)* | `social-organic-strategy` | Project need deconstruction, organic engagement roadmaps, narrative content pillars, and cross-platform publishing across FB, IG, X, and Pinterest. | `coreyhaines31/marketingskills` (social-content, marketing-psychology), `campaign-and-launch-planning` |
+| **Visual & Image Creative Producer** | `social-image-creative` | Scroll-stopping social imagery, text-to-image prompt engineering, visual hooks, typography overlays, and platform dimensions (1:1, 4:5, 2:3, 16:9). | `dragoon0x/everything-design-taste/social-media-content`, `hyperframes`, `remotion-best-practices` |
+| **X / Twitter Content Specialist** | `x-twitter-content-growth` | Viral X hooks, punchy standalone insights, educational threads, conversation drivers, and image-paired value drops. | `twitter-thread-creation`, `twitter-algorithm-optimizer`, `felo-x-search` |
+| **Facebook & Community Specialist** | `facebook-community-growth` | Relatable community storytelling, discussion-provoking questions, story posts, and high-share image cards for Facebook pages and groups. | `coreyhaines31/marketingskills/social-content`, `marketing-psychology` |
+| **Instagram & Pinterest Specialist** | `instagram-pinterest-growth` | Aesthetic 4:5 / 1:1 multi-slide carousels and captions on Instagram; high-intent 2:3 vertical Pins, visual search SEO, and evergreen traffic on Pinterest. | `dragoon0x/everything-design-taste/social-media-content`, `coreyhaines31/marketingskills/seo-audit` |
 
 ---
 
@@ -34,40 +60,3 @@ cp -r Full-Stack-Web-Development-Skills/* /path/to/project/.agents/skills/
 ```
 
 Refresh your agent or restart its session to activate the full procedural knowledge base.
-
----
-
-## 🔒 Security & Provenance Notice
-
-All skills are authored specifically for high-reliability, production-grade autonomous agent execution. They follow strict defensive boundary controls:
-- No speculative assumptions or hallucinations.
-- No destructive actions, unapproved cloud resource provisioning, or silent production changes.
-- Least-privilege operational guidelines and rigorous verification before task completion.
-
----
-
-# 🚀 SEO Growth Team Skills
-
-World-Class Organic Search and Inbound Growth Skills synthesized from leading skills on [skills.sh](https://www.skills.sh/).
-
-| Role | Skill Identifier | Specialized Focus | Top Sources on [skills.sh](https://www.skills.sh/) |
-| :--- | :--- | :--- | :--- |
-| **SEO Strategist & Lead** | `seo-strategy` | Organic growth roadmaps, ICE priority scoring, search intent mapping, conversion funnels, and cross-team orchestration. | `coreyhaines31/marketingskills` (launch-strategy, content-strategy), `mattpocock/skills/to-spec` |
-| **Technical SEO Auditor** | `technical-seo-audit` | Crawl budget optimization, JS rendering parity (SSR/SSG), Schema.org JSON-LD structured data, canonical equity, and Core Web Vitals. | `coreyhaines31/marketingskills` (seo-audit, schema-markup), Google Search Central |
-| **Keyword & Programmatic SEO Architect** | `programmatic-keyword-seo` | High-intent long-tail keyword discovery, semantic topic clustering, cannibalization prevention, and programmatic SEO dataset playbooks. | `coreyhaines31/marketingskills/programmatic-seo`, `gooseworks-ai/goose-skills/programmatic-seo-planner` |
-| **SEO Content & Copy Lead** | `seo-content-copywriting` | High E-E-A-T editorial standards, Generative Engine Optimization (GEO/AI Overviews), search intent fulfillment, and conversion copywriting. | `bankai-skills/superpowers/seo-content-brief`, `coreyhaines31/marketingskills/copywriting`, `whyujjwal/claude-marketing/ai-seo` |
-| **Authority & Digital PR Specialist** | `authority-digital-pr` | White-hat link acquisition, linkable data asset campaigns, high-impact digital PR outreach, entity citations, and backlink audit hygiene. | `dhruvjainin/absolute/link-building`, `rampstackco/claude-skills/seo-offpage`, `gingiris-skills/gr-backlinks` |
-
----
-
-# 📱 Social Media Team Skills
-
-World-Class Multi-Platform Social Media, Viral Content, and Community Growth Skills synthesized from leading frameworks on [skills.sh](https://www.skills.sh/).
-
-| Role | Skill Identifier | Specialized Focus | Top Sources on [skills.sh](https://www.skills.sh/) |
-| :--- | :--- | :--- | :--- |
-| **Social Media Strategist & Lead** | `social-media-strategy` | Multi-platform strategy, content calendar planning, audience growth funnels, and viral narrative arcs across X, LinkedIn, TikTok, and YouTube. | `coreyhaines31/marketingskills` (social-content, marketing-psychology), `campaign-and-launch-planning` |
-| **Short-Form Video & Visual Creative Specialist** | `short-form-video-creative` | 15-60s video scripting, 2-second visual hooks, retention storyboards, and educational carousels for TikTok, Instagram Reels, and Shorts. | `hyperframes`, `remotion-best-practices`, `dragoon0x/everything-design-taste/social-media-content` |
-| **X/Twitter Growth Specialist** | `twitter-growth-architect` | High-engagement viral threads, algorithmic reach optimization (bookmarks/quotes), hook craft, and real-time trend monetization. | `twitter-thread-creation`, `twitter-algorithm-optimizer`, `felo-x-search` |
-| **LinkedIn & B2B Content Specialist** | `linkedin-growth-strategist` | Conversational executive thought leadership, multi-page PDF document carousels, and inbound B2B pipeline creation. | `linkedin-best-practices-guide`, `writing-linkedin-posts`, `sergebulaev/linkedin-skills` |
-| **Community Engagement & Trend Specialist** | `community-engagement-listening` | Proactive discussion replies, social listening for brand/competitor mentions, superfan community nurturing, and trend intelligence. | `sergebulaev/linkedin-skills/linkedin-comment-drafter`, `flowkit-labs/skills/reddit-automation` |
