@@ -56,6 +56,16 @@ Dedicated principal architect and editorial director with a holistic, 360-degree
 
 ---
 
+## ⚡ 5. Autonomous Meta-Skills & Self-Improvement Engine
+
+Continuous background observation, friction tracking, workflow refinement, and autonomous skill synthesis across all project leads and autonomous agents.
+
+| Skill Identifier | Title / Subtitle | Functionality & Core Protocols | Source Repository |
+| :--- | :--- | :--- | :--- |
+| **`task-observer`** | *One Skill to Rule Them All* | Passively tracks corrections, workflow bottlenecks, and tool friction across multi-step agentic sessions. Logs structured observations to `skill-observations/observation-log/`, flags repeating manual work for new skill generation, and prepares evidenced patches for human review. | [`rebelytics/one-skill-to-rule-them-all`](https://github.com/rebelytics/one-skill-to-rule-them-all) |
+
+---
+
 ## 🚀 Installation & Usage
 
 ### 1. In OpenMausBot
